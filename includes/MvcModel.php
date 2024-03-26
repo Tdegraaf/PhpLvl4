@@ -8,8 +8,12 @@
 /**
  * Description of MvcModel
  *
- * @author thier
+ * @author T de graaf
+ * \brief 
  */
+
 class MvcModel {
     //put your code here
+    
+    
 }
